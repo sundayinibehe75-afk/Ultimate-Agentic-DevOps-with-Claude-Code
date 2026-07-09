@@ -1,0 +1,2 @@
+- [Portfolio-site infra audit baseline](project_portfolio_infra_baseline.md) — what's already correct vs. known gaps in terraform/ as of 2026-07-09
+- [User & project context](user_context.md) — static HTML/CSS S3+CloudFront portfolio, Terraform-only infra changes, deployed via GitHub Actions
